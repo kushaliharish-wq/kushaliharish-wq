@@ -24,6 +24,18 @@ Hi there, I'm Kushali! 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/terraform.png" alt="Terraform" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/my-sql.png" alt="My SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/dusk/50/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="Postman" width="40" height="40"/>
+  
+  
+  
+  
+  
+
 </p>
 
 
