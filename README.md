@@ -4,7 +4,6 @@ Hi there, I'm Kushali! 👋
 - 🌱 I’m currently exploring LLMs, RAG, and AI infrastructure setup.
 - 🤔 I’m looking to collaborate on AI backend development and deployment projects.
 -	📫 How to reach me: Feel free to email me at kushaliharish@gmail.com.
-- ⚡ Fun fact: I can touch my nose with my tongue!
 
 
 
