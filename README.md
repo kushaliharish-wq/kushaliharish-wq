@@ -1,4 +1,4 @@
-##Hi there, I'm Kushali! 👋
+Hi there, I'm Kushali! 👋
 
 - 🔭 I’m currently working on projects that leverage my professional experience to demonstrate my skills while improving my knowledge of DSA and Cloud concepts.
 - 🌱 I’m currently exploring LLMs, RAG, and AI infrastructure setup.
